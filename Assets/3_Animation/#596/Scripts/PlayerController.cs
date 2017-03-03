@@ -7,9 +7,10 @@ namespace _3_Animation.Scripts
         [SerializeField] private float _speed = 4f;
         private Rigidbody2D _rigidbody2D;
         private Animator _anim;
-        [SerializeField] float _jumpPower = 700; //ジャンプ力
+        [SerializeField] private float _jumpPower = 700; //ジャンプ力
         [SerializeField] private LayerMask _groundLayer; //Linecastで判定するLayer
         [SerializeField] private bool _isGrounded; //着地判定
+        [SerializeField] private GameObject _bullet;
 
         private void Start () {
             _anim = GetComponent<Animator>();
@@ -45,6 +46,10 @@ namespace _3_Animation.Scripts
             //結果をアニメータービューの変数へ反映する
             _anim.SetBool("isJumping",isJumping);
             _anim.SetBool("isFalling",isFalling);
+
+            if (!Input.GetKeyDown("left ctrl")) return;
+            _anim.SetTrigger("Shot");
+            Instantiate(_bullet, transform.position + new Vector3(0f,0.3f,0f), transform.rotation);
         }
 
         private void FixedUpdate ()
