@@ -21,5 +21,12 @@ namespace _3_Animation.Scripts
             //5秒後に消滅
             Destroy(gameObject, 1f);
         }
+
+        private void OnTriggerEnter2D (Collider2D col)
+        {
+            if (col.gameObject.CompareTag("Enemy")) {
+                Destroy(gameObject);
+            }
+        }
     }
 }

@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1038e09e-edf0-46ac-88ec-50719da5cb5f" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/3_Animation/#596/Sprites/20150615115535.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/3_Animation/#596/Sprites/20150615115535.png.meta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/3_Animation/#596/Sprites/hone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/3_Animation/#596/Sprites/hone.png.meta" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/3_Animation/#596/Animations/AnimationControllers/Enemy1.controller" afterPath="$PROJECT_DIR$/Assets/3_Animation/#596/Animations/AnimationControllers/Enemy1.controller" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/3_Animation/#596/Prefabs/Bullet.prefab" afterPath="$PROJECT_DIR$/Assets/3_Animation/#596/Prefabs/Bullet.prefab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/3_Animation/#596/Scripts/PlayerController.cs" afterPath="$PROJECT_DIR$/Assets/3_Animation/#596/Scripts/PlayerController.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/3_Animation/#596/Scenes/#596_scene.unity" afterPath="$PROJECT_DIR$/Assets/3_Animation/#596/Scenes/#596_scene.unity" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/3_Animation/#596/Scripts/BulletController.cs" afterPath="$PROJECT_DIR$/Assets/3_Animation/#596/Scripts/BulletController.cs" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,15 +41,63 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BulletController.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ExplosionController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/3_Animation/#596/Scripts/ExplosionController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="32" lean-forward="false" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+              <folding>
+                <marker date="1488539866000" expanded="true" signature="6:44" ph="..." />
+                <marker date="1488539866000" expanded="true" signature="95:175" ph="{...}" />
+                <marker date="1488539866000" expanded="true" signature="132:173" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BulletController.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/3_Animation/#596/Scripts/BulletController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+            <state relative-caret-position="465">
+              <caret line="31" column="1" lean-forward="false" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
               <folding>
-                <marker date="1488537061000" expanded="true" signature="50:797" ph="{...}" />
-                <marker date="1488537061000" expanded="true" signature="102:795" ph="{...}" />
-                <marker date="1488537061000" expanded="true" signature="210:789" ph="{...}" />
+                <marker date="1488542117000" expanded="true" signature="50:978" ph="{...}" />
+                <marker date="1488542117000" expanded="true" signature="102:976" ph="{...}" />
+                <marker date="1488542117000" expanded="true" signature="210:789" ph="{...}" />
+                <marker date="1488542117000" expanded="true" signature="845:970" ph="{...}" />
+                <marker date="1488542117000" expanded="true" signature="908:960" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sakamoto.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/3_Animation/#596/Scripts/Sakamoto.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+              <folding>
+                <marker date="1488542678000" expanded="true" signature="50:815" ph="{...}" />
+                <marker date="1488542678000" expanded="true" signature="95:813" ph="{...}" />
+                <marker date="1488542678000" expanded="true" signature="341:408" ph="{...}" />
+                <marker date="1488542678000" expanded="true" signature="441:535" ph="{...}" />
+                <marker date="1488542678000" expanded="true" signature="591:807" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EnemyController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/3_Animation/#596/Scripts/EnemyController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
+              <folding>
+                <marker date="1488542278000" expanded="true" signature="50:729" ph="{...}" />
+                <marker date="1488542278000" expanded="true" signature="102:727" ph="{...}" />
+                <marker date="1488542278000" expanded="true" signature="287:354" ph="{...}" />
+                <marker date="1488542278000" expanded="true" signature="387:481" ph="{...}" />
+                <marker date="1488542278000" expanded="true" signature="537:721" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -73,7 +128,10 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/3_Animation/#596/Scripts/CameraController.cs" />
         <option value="$PROJECT_DIR$/Assets/3_Animation/#596/Scripts/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/3_Animation/#596/Scripts/ExplosionController.cs" />
         <option value="$PROJECT_DIR$/Assets/3_Animation/#596/Scripts/BulletController.cs" />
+        <option value="$PROJECT_DIR$/Assets/3_Animation/#596/Scripts/EnemyController.cs" />
+        <option value="$PROJECT_DIR$/Assets/3_Animation/#596/Scripts/Sakamoto.cs" />
       </list>
     </option>
   </component>
@@ -215,12 +273,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1488528912293</updated>
-      <workItem from="1488528914649" duration="3840000" />
+      <workItem from="1488528914649" duration="5132000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3840000" />
+    <option name="totallyTimeSpent" value="5132000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -304,14 +362,56 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/3_Animation/#596/Scripts/ExplosionController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="32" lean-forward="false" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+          <folding>
+            <marker date="1488539866000" expanded="true" signature="6:44" ph="..." />
+            <marker date="1488539866000" expanded="true" signature="95:175" ph="{...}" />
+            <marker date="1488539866000" expanded="true" signature="132:173" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/3_Animation/#596/Scripts/BulletController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        <state relative-caret-position="465">
+          <caret line="31" column="1" lean-forward="false" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
           <folding>
-            <marker date="1488537061000" expanded="true" signature="50:797" ph="{...}" />
-            <marker date="1488537061000" expanded="true" signature="102:795" ph="{...}" />
-            <marker date="1488537061000" expanded="true" signature="210:789" ph="{...}" />
+            <marker date="1488542117000" expanded="true" signature="50:978" ph="{...}" />
+            <marker date="1488542117000" expanded="true" signature="102:976" ph="{...}" />
+            <marker date="1488542117000" expanded="true" signature="210:789" ph="{...}" />
+            <marker date="1488542117000" expanded="true" signature="845:970" ph="{...}" />
+            <marker date="1488542117000" expanded="true" signature="908:960" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/3_Animation/#596/Scripts/EnemyController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <marker date="1488542278000" expanded="true" signature="50:729" ph="{...}" />
+            <marker date="1488542278000" expanded="true" signature="102:727" ph="{...}" />
+            <marker date="1488542278000" expanded="true" signature="287:354" ph="{...}" />
+            <marker date="1488542278000" expanded="true" signature="387:481" ph="{...}" />
+            <marker date="1488542278000" expanded="true" signature="537:721" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/3_Animation/#596/Scripts/Sakamoto.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding>
+            <marker date="1488542678000" expanded="true" signature="50:815" ph="{...}" />
+            <marker date="1488542678000" expanded="true" signature="95:813" ph="{...}" />
+            <marker date="1488542678000" expanded="true" signature="341:408" ph="{...}" />
+            <marker date="1488542678000" expanded="true" signature="441:535" ph="{...}" />
+            <marker date="1488542678000" expanded="true" signature="591:807" ph="{...}" />
           </folding>
         </state>
       </provider>
