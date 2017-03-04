@@ -14,8 +14,8 @@ public class TapEffect : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if(Input.GetMouseButtonDown(0)) {
-			var pos = _camera.ScreenToWorldPoint(Input.mousePosition + _camera.transform.forward * 10);
+		if(Input.GetMouseButton(0)) {
+			var pos = _camera.ScreenToWorldPoint(Input.mousePosition + _camera.transform.forward);
 			_particleSystem.transform.position = pos;
 			_particleSystem.Emit(1);
 		}
