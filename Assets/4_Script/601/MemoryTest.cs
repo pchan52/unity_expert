@@ -5,19 +5,19 @@ using System;
 using UnityEngine.Profiling;
 using System.Linq;
 
-public class Klass {
-	int i;
-	float j;
-
-	public Klass(int i, float j) {
-		this.i = i;
-		this.j = j;
-	}
-
-	~Klass() {
-		Debug.Log ("called destructor");
-	}
-}
+//public class Klass {
+//	int i;
+//	float j;
+//
+//	public Klass(int i, float j) {
+//		this.i = i;
+//		this.j = j;
+//	}
+//
+//	~Klass() {
+//		Debug.Log ("called destructor");
+//	}
+//}
 
 
 public class MemoryTest : MonoBehaviour {
@@ -51,7 +51,8 @@ public class MemoryTest : MonoBehaviour {
 	}
 		
 	void MakeArray(){
-//		//Klass[,] array2D = new Klass[100, 100]; //参照型
+		
+		//Klass[,] array2D = new Klass[100, 100]; //参照型
 //		var array2D = new int[100, 100]; //値型
 //			
 //		for(var i = 0;i < 100; i++) {
@@ -75,10 +76,6 @@ public class MemoryTest : MonoBehaviour {
 			from p in sample
 			select p.X;
 
-
-		GC.Collect ();
-		GC.WaitForPendingFinalizers();
-		GC.Collect ();
 
 		long middle = GC.GetTotalMemory (false);
 		print ("middle MakeArray : " + middle.ToString("N0"));
