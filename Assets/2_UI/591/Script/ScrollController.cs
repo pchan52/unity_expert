@@ -14,7 +14,7 @@ public class ScrollController : MonoBehaviour {
 			item.SetParent (transform, false);
 
 			var text = item.GetComponentInChildren<Text> ();
-			text.text = "item:" + i.ToString ();
+			text.text = "まいちゃん" + i.ToString () + "号♡";
 		}
 	}
 	
