@@ -5,7 +5,14 @@ using _3_Animation.Scripts;
 public class ItemController : MonoBehaviour {
 
     [SerializeField] private int _healPoint = 20;
-    [SerializeField] private LifeController _lifeScript;
+    private LifeController _lifeScript;
+
+
+    private void Start ()
+    {
+        //HPタグの付いているオブジェクトのLifeScriptを取得
+        _lifeScript = GameObject.FindGameObjectWithTag("HP").GetComponent<LifeController>();
+    }
 
     void OnCollisionEnter2D (Collision2D col)
     {
@@ -16,4 +23,4 @@ public class ItemController : MonoBehaviour {
         //アイテムを削除する
         Destroy(gameObject);
     }
-}    
+}
