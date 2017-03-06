@@ -1,4 +1,6 @@
-﻿using UnityEngine;
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
 
 namespace _3_Animation.Scripts
 {
@@ -7,6 +9,7 @@ namespace _3_Animation.Scripts
         [SerializeField] private float _speed = 4f;
         private Rigidbody2D _rigidbody2D;
         private Animator _anim;
+        private new Renderer _renderer;
         [SerializeField] private float _jumpPower = 700; //ジャンプ力
         [SerializeField] private LayerMask _groundLayer; //Linecastで判定するLayer
         [SerializeField] private bool _isGrounded; //着地判定
@@ -15,6 +18,7 @@ namespace _3_Animation.Scripts
         private void Start () {
             _anim = GetComponent<Animator>();
             _rigidbody2D = GetComponent<Rigidbody2D>();
+            _renderer = GetComponent<Renderer>();
         }
 
         private void Update ()
@@ -67,5 +71,36 @@ namespace _3_Animation.Scripts
                 _anim.SetBool ("Dash", false);
             }
         }
+
+        void OnCollisionEnter2D (Collision2D col)
+        {
+            //Enemyとぶつかった時にコルーチンを実行
+            if (col.gameObject.tag == "Enemy") {
+                StartCoroutine ("Damage");
+            }
+        }
+
+        IEnumerator Damage ()
+        {
+            //レイヤーをPlayerDamageに変更
+            gameObject.layer = LayerMask.NameToLayer("PlayerDamage");
+            //while文を10回ループ
+            int count = 10;
+            while (count > 0){
+                //透明にする
+                _renderer.material.color = new Color (1,1,1,0);
+                //0.05秒待つ
+                yield return new WaitForSeconds(0.05f);
+                //元に戻す
+                _renderer.material.color = new Color (1,1,1,1);
+                //0.05秒待つ
+                yield return new WaitForSeconds(0.05f);
+                count--;
+            }
+            //レイヤーをPlayerに戻す
+            gameObject.layer = LayerMask.NameToLayer("Player");
+        }
     }
+
+
 }
