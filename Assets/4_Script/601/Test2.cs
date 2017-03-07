@@ -5,6 +5,8 @@ using System.Linq;
 
 public class Test2 : MonoBehaviour {
 
+
+
 	// Use this for initialization
 	void Start () {
 		var list = new List<int> { 9, 7, 5, 4, 2, 5, 4, 0, 4, 8, 1, 0, 4 };
@@ -44,5 +46,9 @@ public class Test2 : MonoBehaviour {
 		var sort = list.OrderBy (n => -n);
 		foreach (var n in sort)
 			print (n);
+	}
+
+	void Update(){
+		
 	}
 }
