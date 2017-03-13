@@ -92,12 +92,12 @@ TextureImporter:
       name: 20170309191246_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 91
-        width: 179
-        height: 298
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2.9999995
+        y: 86
+        width: 189
+        height: 308
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -105,12 +105,12 @@ TextureImporter:
       name: 20170309191246_1
       rect:
         serializedVersion: 2
-        x: 138
-        y: 16
-        width: 77
-        height: 76
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 133
+        y: 11
+        width: 87
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -118,17 +118,17 @@ TextureImporter:
       name: 20170309191246_2
       rect:
         serializedVersion: 2
-        x: 31
-        y: 14
-        width: 93
-        height: 74
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 26.000002
+        y: 9
+        width: 103.000015
+        height: 84
+      alignment: 9
+      pivot: {x: 0.4999999, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     outline: []
   spritePackingTag: 
-  userData: 
+  userData: 97607786823680
   assetBundleName: 
   assetBundleVariant: 
