@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using JetBrains.Annotations;
 using UnityEngine;
 
-public class Main : MonoBehaviour
+public partial class Main : MonoBehaviour
 {
     private SingletonSample _sample1;
     private SingletonSample _sample2;
