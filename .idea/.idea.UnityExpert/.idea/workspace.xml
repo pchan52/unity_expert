@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1038e09e-edf0-46ac-88ec-50719da5cb5f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.UnityExpert/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.UnityExpert/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/4_Script/639/Singleton/Main.cs" afterPath="$PROJECT_DIR$/Assets/4_Script/639/Singleton/Main.cs" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -118,8 +117,8 @@
       <file leaf-file-name="MainState.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/4_Script/639/State/MainState.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+            <state relative-caret-position="405">
+              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding>
                 <marker date="1489580744000" expanded="true" signature="6:44" ph="..." />
                 <marker date="1489580744000" expanded="true" signature="84:447" ph="{...}" />
@@ -297,12 +296,12 @@
       <option name="presentableId" value="Default" />
       <updated>1488528912293</updated>
       <workItem from="1488528914649" duration="6738000" />
-      <workItem from="1489557813577" duration="9047000" />
+      <workItem from="1489557813577" duration="9048000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41571000" />
+    <option name="totallyTimeSpent" value="41572000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -744,8 +743,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/4_Script/639/State/MainState.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        <state relative-caret-position="405">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding>
             <marker date="1489580744000" expanded="true" signature="6:44" ph="..." />
             <marker date="1489580744000" expanded="true" signature="84:447" ph="{...}" />
