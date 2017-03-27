@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1038e09e-edf0-46ac-88ec-50719da5cb5f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/3_Animation/#695/Scenes/#695-2.unity" afterPath="$PROJECT_DIR$/Assets/3_Animation/#695/Scenes/#695-2.unity" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.UnityExpert/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.UnityExpert/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/BoundText.cs" afterPath="$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/BoundText.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/TweenManager.cs" afterPath="$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/TweenManager.cs" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,7 +14,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TweenManager.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TweenManager.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/TweenManager.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
@@ -29,6 +26,20 @@
                 <marker date="1490593363000" expanded="true" signature="487:800" ph="{...}" />
                 <marker date="1490593363000" expanded="true" signature="534:662" ph="{...}" />
                 <marker date="1490593363000" expanded="true" signature="704:794" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BlinkCanvasGroup.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/BlinkCanvasGroup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+              <folding>
+                <marker date="1490596882000" expanded="true" signature="6:37" ph="..." />
+                <marker date="1490596882000" expanded="true" signature="124:432" ph="{...}" />
+                <marker date="1490596882000" expanded="true" signature="270:430" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -118,6 +129,7 @@
         <option value="$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/BoundText.cs" />
         <option value="$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/ExpandButton.cs" />
         <option value="$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/TweenManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/BlinkCanvasGroup.cs" />
       </list>
     </option>
   </component>
@@ -303,12 +315,12 @@
       <updated>1488528912293</updated>
       <workItem from="1488528914649" duration="11331000" />
       <workItem from="1488969217200" duration="6000" />
-      <workItem from="1490579873075" duration="4065000" />
+      <workItem from="1490579873075" duration="5233000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15402000" />
+    <option name="totallyTimeSpent" value="16570000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -751,6 +763,18 @@
             <marker date="1490593363000" expanded="true" signature="487:800" ph="{...}" />
             <marker date="1490593363000" expanded="true" signature="534:662" ph="{...}" />
             <marker date="1490593363000" expanded="true" signature="704:794" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/BlinkCanvasGroup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <marker date="1490596882000" expanded="true" signature="6:37" ph="..." />
+            <marker date="1490596882000" expanded="true" signature="124:432" ph="{...}" />
+            <marker date="1490596882000" expanded="true" signature="270:430" ph="{...}" />
           </folding>
         </state>
       </provider>
