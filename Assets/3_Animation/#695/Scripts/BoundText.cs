@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
 using DG.Tweening;
 
-public class BoundText : MonoBehaviour {
-
+public class BoundText : MonoBehaviour
+{
     private void Update () {
         if (!Input.GetMouseButtonDown(0)) return;
         // 跳ねるっぽく

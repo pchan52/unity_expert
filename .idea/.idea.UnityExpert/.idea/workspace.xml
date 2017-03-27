@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1038e09e-edf0-46ac-88ec-50719da5cb5f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/3_Animation/#695/Scenes/#695-2.unity" afterPath="$PROJECT_DIR$/Assets/3_Animation/#695/Scenes/#695-2.unity" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.UnityExpert/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.UnityExpert/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/BoundText.cs" afterPath="$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/BoundText.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/TweenManager.cs" afterPath="$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/TweenManager.cs" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,32 +17,80 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TweenManager.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TweenManager.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/TweenManager.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="1" lean-forward="false" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+            <state relative-caret-position="225">
+              <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
               <folding>
-                <marker date="1490580209000" expanded="true" signature="6:108" ph="..." />
-                <marker date="1490580209000" expanded="true" signature="150:699" ph="{...}" />
-                <marker date="1490580209000" expanded="true" signature="264:398" ph="{...}" />
-                <marker date="1490580209000" expanded="true" signature="417:697" ph="{...}" />
-                <marker date="1490580209000" expanded="true" signature="464:559" ph="{...}" />
-                <marker date="1490580209000" expanded="true" signature="601:691" ph="{...}" />
+                <marker date="1490593363000" expanded="true" signature="6:108" ph="..." />
+                <marker date="1490593363000" expanded="true" signature="150:802" ph="{...}" />
+                <marker date="1490593363000" expanded="true" signature="304:468" ph="{...}" />
+                <marker date="1490593363000" expanded="true" signature="487:800" ph="{...}" />
+                <marker date="1490593363000" expanded="true" signature="534:662" ph="{...}" />
+                <marker date="1490593363000" expanded="true" signature="704:794" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BoundText.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BoundText.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/BoundText.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="60">
+              <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
               <folding>
-                <marker date="1490581120000" expanded="true" signature="6:37" ph="..." />
-                <marker date="1490581120000" expanded="true" signature="78:292" ph="{...}" />
-                <marker date="1490581120000" expanded="true" signature="108:290" ph="{...}" />
+                <marker date="1490589778000" expanded="true" signature="6:37" ph="..." />
+                <marker date="1490589778000" expanded="true" signature="77:291" ph="{...}" />
+                <marker date="1490589778000" expanded="true" signature="107:289" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExpandButton.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/ExpandButton.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2546">
+              <caret line="219" column="1" lean-forward="false" selection-start-line="219" selection-start-column="1" selection-end-line="219" selection-end-column="1" />
+              <folding>
+                <marker date="1490590253000" expanded="true" signature="0:110" ph="/* フロートメニューっていうかあれの展開（笑） ... */" />
+                <marker date="1490590253000" expanded="true" signature="117:246" ph="..." />
+                <marker date="1490590253000" expanded="true" signature="323:5607" ph="{...}" />
+                <marker date="1490590253000" expanded="true" signature="331:388" ph="/// 展開時の画像（optional） ... " />
+                <marker date="1490590253000" expanded="true" signature="444:492" ph="/// 小ボタンの設定 ... " />
+                <marker date="1490590253000" expanded="true" signature="722:807" ph="/// 子ボタンの設定 ... " />
+                <marker date="1490590253000" expanded="true" signature="838:971" ph="{...}" />
+                <marker date="1490590253000" expanded="true" signature="890:965" ph="{...}" />
+                <marker date="1490590253000" expanded="true" signature="976:1116" ph="/// メニュー展開済みか ... " />
+                <marker date="1490590253000" expanded="true" signature="1144:1191" ph="{...}" />
+                <marker date="1490590253000" expanded="true" signature="1217:1413" ph="{...}" />
+                <marker date="1490590253000" expanded="true" signature="1439:1522" ph="{...}" />
+                <marker date="1490590253000" expanded="true" signature="1528:1580" ph="/// タップ時にトグルさせる ... " />
+                <marker date="1490590253000" expanded="true" signature="1604:1722" ph="{...}" />
+                <marker date="1490590253000" expanded="true" signature="1641:1674" ph="{...}" />
+                <marker date="1490590253000" expanded="true" signature="1728:1775" ph="/// 子ボタン展開 ... " />
+                <marker date="1490590253000" expanded="true" signature="1800:2736" ph="{...}" />
+                <marker date="1490590253000" expanded="true" signature="1836:1867" ph="{...}" />
+                <marker date="1490590253000" expanded="true" signature="1955:2593" ph="{...}" />
+                <marker date="1490590253000" expanded="true" signature="2667:2730" ph="{...}" />
+                <marker date="1490590253000" expanded="true" signature="2742:2790" ph="/// 子ボタン閉じる ... " />
+                <marker date="1490590253000" expanded="true" signature="2817:3814" ph="{...}" />
+                <marker date="1490590253000" expanded="true" signature="2854:2885" ph="{...}" />
+                <marker date="1490590253000" expanded="true" signature="2979:3673" ph="{...}" />
+                <marker date="1490590253000" expanded="true" signature="3263:3334" ph="{...}" />
+                <marker date="1490590253000" expanded="true" signature="3747:3808" ph="{...}" />
+                <marker date="1490590253000" expanded="true" signature="3820:3881" ph="/// 子ボタンを指定された設定にしたがって構築 ... " />
+                <marker date="1490590253000" expanded="true" signature="3914:5114" ph="{...}" />
+                <marker date="1490590253000" expanded="true" signature="3951:3996" ph="/* 先に設定されたものを全面にしたいので ... */" />
+                <marker date="1490590253000" expanded="true" signature="4057:5075" ph="{...}" />
+                <marker date="1490590253000" expanded="true" signature="5120:5169" ph="/// 子ボタンを全クリ ... " />
+                <marker date="1490590253000" expanded="true" signature="5197:5335" ph="{...}" />
+                <marker date="1490590253000" expanded="true" signature="5254:5298" ph="{...}" />
+                <marker date="1490590253000" expanded="true" signature="5341:5444" ph="/// 子ボタンタップ時のハンドリング ... " />
+                <marker date="1490590253000" expanded="true" signature="5489:5604" ph="{...}" />
+                <marker date="1490590253000" expanded="true" signature="5531:5578" ph="{...}" />
+                <marker date="1490590253000" expanded="true" signature="5644:5733" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -64,8 +115,9 @@
         <option value="$PROJECT_DIR$/Assets/3_Animation/#554/Scripts/MoveSphere.cs" />
         <option value="$PROJECT_DIR$/Assets/3_Animation/#554/Scripts/MoveFloor.cs" />
         <option value="$USER_HOME$/UnityProjects/DuelofSwordwoman/Assets/Scripts/AddObject.cs" />
-        <option value="$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/TweenManager.cs" />
         <option value="$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/BoundText.cs" />
+        <option value="$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/ExpandButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/TweenManager.cs" />
       </list>
     </option>
   </component>
@@ -251,12 +303,12 @@
       <updated>1488528912293</updated>
       <workItem from="1488528914649" duration="11331000" />
       <workItem from="1488969217200" duration="6000" />
-      <workItem from="1490579873075" duration="1362000" />
+      <workItem from="1490579873075" duration="4065000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12699000" />
+    <option name="totallyTimeSpent" value="15402000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -630,29 +682,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/TweenManager.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/BoundText.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="1" lean-forward="false" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        <state relative-caret-position="60">
+          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
           <folding>
-            <marker date="1490580209000" expanded="true" signature="6:108" ph="..." />
-            <marker date="1490580209000" expanded="true" signature="150:699" ph="{...}" />
-            <marker date="1490580209000" expanded="true" signature="264:398" ph="{...}" />
-            <marker date="1490580209000" expanded="true" signature="417:697" ph="{...}" />
-            <marker date="1490580209000" expanded="true" signature="464:559" ph="{...}" />
-            <marker date="1490580209000" expanded="true" signature="601:691" ph="{...}" />
+            <marker date="1490589778000" expanded="true" signature="6:37" ph="..." />
+            <marker date="1490589778000" expanded="true" signature="77:291" ph="{...}" />
+            <marker date="1490589778000" expanded="true" signature="107:289" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/BoundText.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/ExpandButton.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="2546">
+          <caret line="219" column="1" lean-forward="false" selection-start-line="219" selection-start-column="1" selection-end-line="219" selection-end-column="1" />
           <folding>
-            <marker date="1490581120000" expanded="true" signature="6:37" ph="..." />
-            <marker date="1490581120000" expanded="true" signature="78:292" ph="{...}" />
-            <marker date="1490581120000" expanded="true" signature="108:290" ph="{...}" />
+            <marker date="1490590253000" expanded="true" signature="0:110" ph="/* フロートメニューっていうかあれの展開（笑） ... */" />
+            <marker date="1490590253000" expanded="true" signature="117:246" ph="..." />
+            <marker date="1490590253000" expanded="true" signature="323:5607" ph="{...}" />
+            <marker date="1490590253000" expanded="true" signature="331:388" ph="/// 展開時の画像（optional） ... " />
+            <marker date="1490590253000" expanded="true" signature="444:492" ph="/// 小ボタンの設定 ... " />
+            <marker date="1490590253000" expanded="true" signature="722:807" ph="/// 子ボタンの設定 ... " />
+            <marker date="1490590253000" expanded="true" signature="838:971" ph="{...}" />
+            <marker date="1490590253000" expanded="true" signature="890:965" ph="{...}" />
+            <marker date="1490590253000" expanded="true" signature="976:1116" ph="/// メニュー展開済みか ... " />
+            <marker date="1490590253000" expanded="true" signature="1144:1191" ph="{...}" />
+            <marker date="1490590253000" expanded="true" signature="1217:1413" ph="{...}" />
+            <marker date="1490590253000" expanded="true" signature="1439:1522" ph="{...}" />
+            <marker date="1490590253000" expanded="true" signature="1528:1580" ph="/// タップ時にトグルさせる ... " />
+            <marker date="1490590253000" expanded="true" signature="1604:1722" ph="{...}" />
+            <marker date="1490590253000" expanded="true" signature="1641:1674" ph="{...}" />
+            <marker date="1490590253000" expanded="true" signature="1728:1775" ph="/// 子ボタン展開 ... " />
+            <marker date="1490590253000" expanded="true" signature="1800:2736" ph="{...}" />
+            <marker date="1490590253000" expanded="true" signature="1836:1867" ph="{...}" />
+            <marker date="1490590253000" expanded="true" signature="1955:2593" ph="{...}" />
+            <marker date="1490590253000" expanded="true" signature="2667:2730" ph="{...}" />
+            <marker date="1490590253000" expanded="true" signature="2742:2790" ph="/// 子ボタン閉じる ... " />
+            <marker date="1490590253000" expanded="true" signature="2817:3814" ph="{...}" />
+            <marker date="1490590253000" expanded="true" signature="2854:2885" ph="{...}" />
+            <marker date="1490590253000" expanded="true" signature="2979:3673" ph="{...}" />
+            <marker date="1490590253000" expanded="true" signature="3263:3334" ph="{...}" />
+            <marker date="1490590253000" expanded="true" signature="3747:3808" ph="{...}" />
+            <marker date="1490590253000" expanded="true" signature="3820:3881" ph="/// 子ボタンを指定された設定にしたがって構築 ... " />
+            <marker date="1490590253000" expanded="true" signature="3914:5114" ph="{...}" />
+            <marker date="1490590253000" expanded="true" signature="3951:3996" ph="/* 先に設定されたものを全面にしたいので ... */" />
+            <marker date="1490590253000" expanded="true" signature="4057:5075" ph="{...}" />
+            <marker date="1490590253000" expanded="true" signature="5120:5169" ph="/// 子ボタンを全クリ ... " />
+            <marker date="1490590253000" expanded="true" signature="5197:5335" ph="{...}" />
+            <marker date="1490590253000" expanded="true" signature="5254:5298" ph="{...}" />
+            <marker date="1490590253000" expanded="true" signature="5341:5444" ph="/// 子ボタンタップ時のハンドリング ... " />
+            <marker date="1490590253000" expanded="true" signature="5489:5604" ph="{...}" />
+            <marker date="1490590253000" expanded="true" signature="5531:5578" ph="{...}" />
+            <marker date="1490590253000" expanded="true" signature="5644:5733" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/TweenManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <folding>
+            <marker date="1490593363000" expanded="true" signature="6:108" ph="..." />
+            <marker date="1490593363000" expanded="true" signature="150:802" ph="{...}" />
+            <marker date="1490593363000" expanded="true" signature="304:468" ph="{...}" />
+            <marker date="1490593363000" expanded="true" signature="487:800" ph="{...}" />
+            <marker date="1490593363000" expanded="true" signature="534:662" ph="{...}" />
+            <marker date="1490593363000" expanded="true" signature="704:794" ph="{...}" />
           </folding>
         </state>
       </provider>
