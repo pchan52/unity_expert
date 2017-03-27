@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1038e09e-edf0-46ac-88ec-50719da5cb5f" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/ExpandButton.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/ExpandButton.cs.meta" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.UnityExpert/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.UnityExpert/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,12 +36,12 @@
       <file leaf-file-name="BlinkCanvasGroup.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/BlinkCanvasGroup.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            <state relative-caret-position="210">
+              <caret line="14" column="96" lean-forward="true" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="96" />
               <folding>
-                <marker date="1490596882000" expanded="true" signature="6:37" ph="..." />
-                <marker date="1490596882000" expanded="true" signature="124:432" ph="{...}" />
-                <marker date="1490596882000" expanded="true" signature="270:430" ph="{...}" />
+                <marker date="1490598003000" expanded="true" signature="6:37" ph="..." />
+                <marker date="1490598003000" expanded="true" signature="124:432" ph="{...}" />
+                <marker date="1490598003000" expanded="true" signature="270:430" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -48,60 +50,12 @@
       <file leaf-file-name="BoundText.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/BoundText.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            <state relative-caret-position="165">
+              <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
               <folding>
                 <marker date="1490589778000" expanded="true" signature="6:37" ph="..." />
                 <marker date="1490589778000" expanded="true" signature="77:291" ph="{...}" />
                 <marker date="1490589778000" expanded="true" signature="107:289" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExpandButton.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/ExpandButton.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2546">
-              <caret line="219" column="1" lean-forward="false" selection-start-line="219" selection-start-column="1" selection-end-line="219" selection-end-column="1" />
-              <folding>
-                <marker date="1490590253000" expanded="true" signature="0:110" ph="/* フロートメニューっていうかあれの展開（笑） ... */" />
-                <marker date="1490590253000" expanded="true" signature="117:246" ph="..." />
-                <marker date="1490590253000" expanded="true" signature="323:5607" ph="{...}" />
-                <marker date="1490590253000" expanded="true" signature="331:388" ph="/// 展開時の画像（optional） ... " />
-                <marker date="1490590253000" expanded="true" signature="444:492" ph="/// 小ボタンの設定 ... " />
-                <marker date="1490590253000" expanded="true" signature="722:807" ph="/// 子ボタンの設定 ... " />
-                <marker date="1490590253000" expanded="true" signature="838:971" ph="{...}" />
-                <marker date="1490590253000" expanded="true" signature="890:965" ph="{...}" />
-                <marker date="1490590253000" expanded="true" signature="976:1116" ph="/// メニュー展開済みか ... " />
-                <marker date="1490590253000" expanded="true" signature="1144:1191" ph="{...}" />
-                <marker date="1490590253000" expanded="true" signature="1217:1413" ph="{...}" />
-                <marker date="1490590253000" expanded="true" signature="1439:1522" ph="{...}" />
-                <marker date="1490590253000" expanded="true" signature="1528:1580" ph="/// タップ時にトグルさせる ... " />
-                <marker date="1490590253000" expanded="true" signature="1604:1722" ph="{...}" />
-                <marker date="1490590253000" expanded="true" signature="1641:1674" ph="{...}" />
-                <marker date="1490590253000" expanded="true" signature="1728:1775" ph="/// 子ボタン展開 ... " />
-                <marker date="1490590253000" expanded="true" signature="1800:2736" ph="{...}" />
-                <marker date="1490590253000" expanded="true" signature="1836:1867" ph="{...}" />
-                <marker date="1490590253000" expanded="true" signature="1955:2593" ph="{...}" />
-                <marker date="1490590253000" expanded="true" signature="2667:2730" ph="{...}" />
-                <marker date="1490590253000" expanded="true" signature="2742:2790" ph="/// 子ボタン閉じる ... " />
-                <marker date="1490590253000" expanded="true" signature="2817:3814" ph="{...}" />
-                <marker date="1490590253000" expanded="true" signature="2854:2885" ph="{...}" />
-                <marker date="1490590253000" expanded="true" signature="2979:3673" ph="{...}" />
-                <marker date="1490590253000" expanded="true" signature="3263:3334" ph="{...}" />
-                <marker date="1490590253000" expanded="true" signature="3747:3808" ph="{...}" />
-                <marker date="1490590253000" expanded="true" signature="3820:3881" ph="/// 子ボタンを指定された設定にしたがって構築 ... " />
-                <marker date="1490590253000" expanded="true" signature="3914:5114" ph="{...}" />
-                <marker date="1490590253000" expanded="true" signature="3951:3996" ph="/* 先に設定されたものを全面にしたいので ... */" />
-                <marker date="1490590253000" expanded="true" signature="4057:5075" ph="{...}" />
-                <marker date="1490590253000" expanded="true" signature="5120:5169" ph="/// 子ボタンを全クリ ... " />
-                <marker date="1490590253000" expanded="true" signature="5197:5335" ph="{...}" />
-                <marker date="1490590253000" expanded="true" signature="5254:5298" ph="{...}" />
-                <marker date="1490590253000" expanded="true" signature="5341:5444" ph="/// 子ボタンタップ時のハンドリング ... " />
-                <marker date="1490590253000" expanded="true" signature="5489:5604" ph="{...}" />
-                <marker date="1490590253000" expanded="true" signature="5531:5578" ph="{...}" />
-                <marker date="1490590253000" expanded="true" signature="5644:5733" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -126,9 +80,9 @@
         <option value="$PROJECT_DIR$/Assets/3_Animation/#554/Scripts/MoveSphere.cs" />
         <option value="$PROJECT_DIR$/Assets/3_Animation/#554/Scripts/MoveFloor.cs" />
         <option value="$USER_HOME$/UnityProjects/DuelofSwordwoman/Assets/Scripts/AddObject.cs" />
-        <option value="$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/BoundText.cs" />
         <option value="$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/ExpandButton.cs" />
         <option value="$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/TweenManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/BoundText.cs" />
         <option value="$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/BlinkCanvasGroup.cs" />
       </list>
     </option>
@@ -315,12 +269,12 @@
       <updated>1488528912293</updated>
       <workItem from="1488528914649" duration="11331000" />
       <workItem from="1488969217200" duration="6000" />
-      <workItem from="1490579873075" duration="5233000" />
+      <workItem from="1490579873075" duration="6194000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16570000" />
+    <option name="totallyTimeSpent" value="17531000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -694,61 +648,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/BoundText.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-          <folding>
-            <marker date="1490589778000" expanded="true" signature="6:37" ph="..." />
-            <marker date="1490589778000" expanded="true" signature="77:291" ph="{...}" />
-            <marker date="1490589778000" expanded="true" signature="107:289" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/ExpandButton.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2546">
           <caret line="219" column="1" lean-forward="false" selection-start-line="219" selection-start-column="1" selection-end-line="219" selection-end-column="1" />
-          <folding>
-            <marker date="1490590253000" expanded="true" signature="0:110" ph="/* フロートメニューっていうかあれの展開（笑） ... */" />
-            <marker date="1490590253000" expanded="true" signature="117:246" ph="..." />
-            <marker date="1490590253000" expanded="true" signature="323:5607" ph="{...}" />
-            <marker date="1490590253000" expanded="true" signature="331:388" ph="/// 展開時の画像（optional） ... " />
-            <marker date="1490590253000" expanded="true" signature="444:492" ph="/// 小ボタンの設定 ... " />
-            <marker date="1490590253000" expanded="true" signature="722:807" ph="/// 子ボタンの設定 ... " />
-            <marker date="1490590253000" expanded="true" signature="838:971" ph="{...}" />
-            <marker date="1490590253000" expanded="true" signature="890:965" ph="{...}" />
-            <marker date="1490590253000" expanded="true" signature="976:1116" ph="/// メニュー展開済みか ... " />
-            <marker date="1490590253000" expanded="true" signature="1144:1191" ph="{...}" />
-            <marker date="1490590253000" expanded="true" signature="1217:1413" ph="{...}" />
-            <marker date="1490590253000" expanded="true" signature="1439:1522" ph="{...}" />
-            <marker date="1490590253000" expanded="true" signature="1528:1580" ph="/// タップ時にトグルさせる ... " />
-            <marker date="1490590253000" expanded="true" signature="1604:1722" ph="{...}" />
-            <marker date="1490590253000" expanded="true" signature="1641:1674" ph="{...}" />
-            <marker date="1490590253000" expanded="true" signature="1728:1775" ph="/// 子ボタン展開 ... " />
-            <marker date="1490590253000" expanded="true" signature="1800:2736" ph="{...}" />
-            <marker date="1490590253000" expanded="true" signature="1836:1867" ph="{...}" />
-            <marker date="1490590253000" expanded="true" signature="1955:2593" ph="{...}" />
-            <marker date="1490590253000" expanded="true" signature="2667:2730" ph="{...}" />
-            <marker date="1490590253000" expanded="true" signature="2742:2790" ph="/// 子ボタン閉じる ... " />
-            <marker date="1490590253000" expanded="true" signature="2817:3814" ph="{...}" />
-            <marker date="1490590253000" expanded="true" signature="2854:2885" ph="{...}" />
-            <marker date="1490590253000" expanded="true" signature="2979:3673" ph="{...}" />
-            <marker date="1490590253000" expanded="true" signature="3263:3334" ph="{...}" />
-            <marker date="1490590253000" expanded="true" signature="3747:3808" ph="{...}" />
-            <marker date="1490590253000" expanded="true" signature="3820:3881" ph="/// 子ボタンを指定された設定にしたがって構築 ... " />
-            <marker date="1490590253000" expanded="true" signature="3914:5114" ph="{...}" />
-            <marker date="1490590253000" expanded="true" signature="3951:3996" ph="/* 先に設定されたものを全面にしたいので ... */" />
-            <marker date="1490590253000" expanded="true" signature="4057:5075" ph="{...}" />
-            <marker date="1490590253000" expanded="true" signature="5120:5169" ph="/// 子ボタンを全クリ ... " />
-            <marker date="1490590253000" expanded="true" signature="5197:5335" ph="{...}" />
-            <marker date="1490590253000" expanded="true" signature="5254:5298" ph="{...}" />
-            <marker date="1490590253000" expanded="true" signature="5341:5444" ph="/// 子ボタンタップ時のハンドリング ... " />
-            <marker date="1490590253000" expanded="true" signature="5489:5604" ph="{...}" />
-            <marker date="1490590253000" expanded="true" signature="5531:5578" ph="{...}" />
-            <marker date="1490590253000" expanded="true" signature="5644:5733" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -767,14 +671,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/BoundText.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <marker date="1490589778000" expanded="true" signature="6:37" ph="..." />
+            <marker date="1490589778000" expanded="true" signature="77:291" ph="{...}" />
+            <marker date="1490589778000" expanded="true" signature="107:289" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/BlinkCanvasGroup.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        <state relative-caret-position="210">
+          <caret line="14" column="96" lean-forward="true" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="96" />
           <folding>
-            <marker date="1490596882000" expanded="true" signature="6:37" ph="..." />
-            <marker date="1490596882000" expanded="true" signature="124:432" ph="{...}" />
-            <marker date="1490596882000" expanded="true" signature="270:430" ph="{...}" />
+            <marker date="1490598003000" expanded="true" signature="6:37" ph="..." />
+            <marker date="1490598003000" expanded="true" signature="124:432" ph="{...}" />
+            <marker date="1490598003000" expanded="true" signature="270:430" ph="{...}" />
           </folding>
         </state>
       </provider>
