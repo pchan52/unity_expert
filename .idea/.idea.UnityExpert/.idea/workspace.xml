@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1038e09e-edf0-46ac-88ec-50719da5cb5f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/3_Animation/#554/ImportAssets/Demigiant/DOTween/DOTween43.dll.addon" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/3_Animation/#554/ImportAssets/Demigiant/DOTween/DOTween43.dll.addon.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/3_Animation/#554/ImportAssets/Demigiant/DOTween/DOTween43.dll.mdb.addon" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/3_Animation/#554/ImportAssets/Demigiant/DOTween/DOTween43.dll.mdb.addon.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/3_Animation/#554/ImportAssets/Demigiant/DOTween/DOTween43.xml.addon" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/3_Animation/#554/ImportAssets/Demigiant/DOTween/DOTween43.xml.addon.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/3_Animation/#554/ImportAssets/Demigiant/DOTween/DOTween46.dll.addon" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/3_Animation/#554/ImportAssets/Demigiant/DOTween/DOTween46.dll.addon.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/3_Animation/#554/ImportAssets/Demigiant/DOTween/DOTween46.dll.mdb.addon" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/3_Animation/#554/ImportAssets/Demigiant/DOTween/DOTween46.dll.mdb.addon.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/3_Animation/#554/ImportAssets/Demigiant/DOTween/DOTween46.xml.addon" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/3_Animation/#554/ImportAssets/Demigiant/DOTween/DOTween46.xml.addon.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/3_Animation/#554/ImportAssets/Demigiant/DOTween/DOTween50.dll.addon" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/3_Animation/#554/ImportAssets/Demigiant/DOTween/DOTween50.dll.addon.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/3_Animation/#554/ImportAssets/Demigiant/DOTween/DOTween50.dll.mdb.addon" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/3_Animation/#554/ImportAssets/Demigiant/DOTween/DOTween50.dll.mdb.addon.meta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/3_Animation/#554/ImportAssets/Demigiant/DOTween/DOTween50.xml.addon" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Assets/3_Animation/#554/ImportAssets/Demigiant/DOTween/DOTween50.xml.addon.meta" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/3_Animation/#695/Scenes/#695.unity" afterPath="$PROJECT_DIR$/Assets/3_Animation/#695/Scenes/#695.unity" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.UnityExpert/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.UnityExpert/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,7 +14,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TweenManager.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TweenManager.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/TweenManager.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
@@ -44,6 +26,20 @@
                 <marker date="1490580209000" expanded="true" signature="417:697" ph="{...}" />
                 <marker date="1490580209000" expanded="true" signature="464:559" ph="{...}" />
                 <marker date="1490580209000" expanded="true" signature="601:691" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BoundText.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/BoundText.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding>
+                <marker date="1490581120000" expanded="true" signature="6:37" ph="..." />
+                <marker date="1490581120000" expanded="true" signature="78:292" ph="{...}" />
+                <marker date="1490581120000" expanded="true" signature="108:290" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -69,6 +65,7 @@
         <option value="$PROJECT_DIR$/Assets/3_Animation/#554/Scripts/MoveFloor.cs" />
         <option value="$USER_HOME$/UnityProjects/DuelofSwordwoman/Assets/Scripts/AddObject.cs" />
         <option value="$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/TweenManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/BoundText.cs" />
       </list>
     </option>
   </component>
@@ -254,12 +251,12 @@
       <updated>1488528912293</updated>
       <workItem from="1488528914649" duration="11331000" />
       <workItem from="1488969217200" duration="6000" />
-      <workItem from="1490579873075" duration="709000" />
+      <workItem from="1490579873075" duration="1362000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12046000" />
+    <option name="totallyTimeSpent" value="12699000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -644,6 +641,18 @@
             <marker date="1490580209000" expanded="true" signature="417:697" ph="{...}" />
             <marker date="1490580209000" expanded="true" signature="464:559" ph="{...}" />
             <marker date="1490580209000" expanded="true" signature="601:691" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/3_Animation/#695/Scripts/BoundText.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <marker date="1490581120000" expanded="true" signature="6:37" ph="..." />
+            <marker date="1490581120000" expanded="true" signature="78:292" ph="{...}" />
+            <marker date="1490581120000" expanded="true" signature="108:290" ph="{...}" />
           </folding>
         </state>
       </provider>
