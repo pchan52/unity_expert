@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1038e09e-edf0-46ac-88ec-50719da5cb5f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.UnityExpert/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.UnityExpert/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/3_Animation/#568/ImportAssets/Anima2D/Examples/TRex/t_rex_parts.png.meta" afterPath="$PROJECT_DIR$/Assets/3_Animation/#568/ImportAssets/Anima2D/Examples/TRex/t_rex_parts.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/3_Animation/#568/ImportAssets/Anima2D/Examples/UnityChan/atlas.png.meta" afterPath="$PROJECT_DIR$/Assets/3_Animation/#568/ImportAssets/Anima2D/Examples/UnityChan/atlas.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/3_Animation/#568/Sprite/20170309191246.png.meta" afterPath="$PROJECT_DIR$/Assets/3_Animation/#568/Sprite/20170309191246.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UnityExpert.userprefs" afterPath="$PROJECT_DIR$/UnityExpert.userprefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/4_Script/693/ClassMethod2.unity" afterPath="$PROJECT_DIR$/Assets/4_Script/693/ClassMethod2.unity" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -158,8 +154,8 @@
       <file leaf-file-name="TestIndexer.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/4_Script/693/TestIndexer.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="330">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding>
                 <marker date="1490535045000" expanded="true" signature="61:412" ph="{...}" />
                 <marker date="1490535045000" expanded="true" signature="111:410" ph="{...}" />
@@ -303,12 +299,12 @@
       <updated>1488528912293</updated>
       <workItem from="1488528914649" duration="11331000" />
       <workItem from="1488969217200" duration="6000" />
-      <workItem from="1490499116918" duration="8622000" />
+      <workItem from="1490499116918" duration="8638000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19959000" />
+    <option name="totallyTimeSpent" value="19975000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -736,8 +732,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/4_Script/693/TestIndexer.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="330">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
             <marker date="1490535045000" expanded="true" signature="61:412" ph="{...}" />
             <marker date="1490535045000" expanded="true" signature="111:410" ph="{...}" />
