@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1038e09e-edf0-46ac-88ec-50719da5cb5f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.UnityExpert/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.UnityExpert/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/3_Animation/#568/ImportAssets/Anima2D/Examples/TRex/t_rex_parts.png.meta" afterPath="$PROJECT_DIR$/Assets/3_Animation/#568/ImportAssets/Anima2D/Examples/TRex/t_rex_parts.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/3_Animation/#568/ImportAssets/Anima2D/Examples/UnityChan/atlas.png.meta" afterPath="$PROJECT_DIR$/Assets/3_Animation/#568/ImportAssets/Anima2D/Examples/UnityChan/atlas.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/3_Animation/#568/Sprite/20170309191246.png.meta" afterPath="$PROJECT_DIR$/Assets/3_Animation/#568/Sprite/20170309191246.png.meta" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,16 +14,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AutoDoor.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Downloads/ExaminationPractice/Assets/Script/AutoDoor.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="IFirst.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/4_Script/648/InterfaceDouble/IFirst.cs">
           <provider selected="true" editor-type-id="text-editor">
@@ -43,7 +30,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/4_Script/648/InterfaceDouble/ISecond.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <caret line="4" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding>
                 <marker date="1490677589000" expanded="true" signature="17:50" ph="{...}" />
               </folding>
@@ -55,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/4_Script/648/InterfaceDouble/InterfaceDouble.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
                 <marker date="1490677982000" expanded="true" signature="81:233" ph="{...}" />
                 <marker date="1490677982000" expanded="true" signature="111:141" ph="{...}" />
@@ -93,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/4_Script/648/InterfaceSigniture/InterfaceSigniture.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding>
                 <marker date="1490679848000" expanded="true" signature="79:232" ph="{...}" />
                 <marker date="1490679848000" expanded="true" signature="106:154" ph="{...}" />
@@ -103,15 +90,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SignitureMain.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SignitureMain.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/4_Script/648/InterfaceSigniture/SignitureMain.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding>
                 <marker date="1490679928000" expanded="true" signature="63:277" ph="{...}" />
                 <marker date="1490679928000" expanded="true" signature="113:274" ph="{...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ItemController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../Unity/unity3dRPGtest/Assets/Script/ItemController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EnemyController.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../../Unity/unity3dRPGtest/Assets/Script/EnemyController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="49" lean-forward="true" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -161,6 +168,7 @@
         <option value="$PROJECT_DIR$/Assets/4_Script/648/InterfaceSigniture/InterfaceSigniture.cs" />
         <option value="$PROJECT_DIR$/Assets/4_Script/648/InterfaceSigniture/SignitureMain.cs" />
         <option value="$PROJECT_DIR$/Assets/4_Script/648/InterfaceSIngle/InrerfaceMain.cs" />
+        <option value="$PROJECT_DIR$/../../../Unity/unity3dRPGtest/Assets/Script/EnemyController.cs" />
       </list>
     </option>
   </component>
@@ -265,7 +273,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17110000" />
+    <option name="totallyTimeSpent" value="17428000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -354,22 +362,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/3_Animation/#596/Scripts/PlayerController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="86" column="27" lean-forward="false" selection-start-line="86" selection-start-column="27" selection-end-line="86" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/3_Animation/#596/Scripts/LifeController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/3_Animation/#596/Scripts/ItemController.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -639,7 +631,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/4_Script/648/InterfaceDouble/InterfaceDouble.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
             <marker date="1490677982000" expanded="true" signature="81:233" ph="{...}" />
             <marker date="1490677982000" expanded="true" signature="111:141" ph="{...}" />
@@ -651,7 +643,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/4_Script/648/InterfaceDouble/ISecond.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <caret line="4" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding>
             <marker date="1490677589000" expanded="true" signature="17:50" ph="{...}" />
           </folding>
@@ -702,7 +694,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/4_Script/648/InterfaceSigniture/InterfaceSigniture.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding>
             <marker date="1490679848000" expanded="true" signature="79:232" ph="{...}" />
             <marker date="1490679848000" expanded="true" signature="106:154" ph="{...}" />
@@ -714,11 +706,27 @@
     <entry file="file://$PROJECT_DIR$/Assets/4_Script/648/InterfaceSigniture/SignitureMain.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding>
             <marker date="1490679928000" expanded="true" signature="63:277" ph="{...}" />
             <marker date="1490679928000" expanded="true" signature="113:274" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Unity/unity3dRPGtest/Assets/Script/ItemController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Unity/unity3dRPGtest/Assets/Script/EnemyController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="49" lean-forward="true" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+          <folding />
         </state>
       </provider>
     </entry>
