@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1038e09e-edf0-46ac-88ec-50719da5cb5f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.UnityExpert/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.UnityExpert/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/3_Animation/#568/ImportAssets/Anima2D/Examples/TRex/t_rex_parts.png.meta" afterPath="$PROJECT_DIR$/Assets/3_Animation/#568/ImportAssets/Anima2D/Examples/TRex/t_rex_parts.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/3_Animation/#568/ImportAssets/Anima2D/Examples/UnityChan/atlas.png.meta" afterPath="$PROJECT_DIR$/Assets/3_Animation/#568/ImportAssets/Anima2D/Examples/UnityChan/atlas.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/3_Animation/#568/Sprite/20170309191246.png.meta" afterPath="$PROJECT_DIR$/Assets/3_Animation/#568/Sprite/20170309191246.png.meta" />
-    </list>
+    <list default="true" id="1038e09e-edf0-46ac-88ec-50719da5cb5f" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -105,9 +100,15 @@
       <file leaf-file-name="SRPModify.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/4_Script/686/SRPModify.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-              <folding />
+            <state relative-caret-position="15">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding>
+                <marker date="1491317595000" expanded="true" signature="59:475" ph="{...}" />
+                <marker date="1491317595000" expanded="true" signature="87:472" ph="{...}" />
+                <marker date="1491317595000" expanded="true" signature="135:175" ph="{...}" />
+                <marker date="1491317595000" expanded="true" signature="290:330" ph="{...}" />
+                <marker date="1491317595000" expanded="true" signature="418:466" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -261,7 +262,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12804000" />
+    <option name="totallyTimeSpent" value="13026000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -676,9 +677,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/4_Script/686/SRPModify.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-          <folding />
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <marker date="1491317595000" expanded="true" signature="59:475" ph="{...}" />
+            <marker date="1491317595000" expanded="true" signature="87:472" ph="{...}" />
+            <marker date="1491317595000" expanded="true" signature="135:175" ph="{...}" />
+            <marker date="1491317595000" expanded="true" signature="290:330" ph="{...}" />
+            <marker date="1491317595000" expanded="true" signature="418:466" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
