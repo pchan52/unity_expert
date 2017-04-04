@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1038e09e-edf0-46ac-88ec-50719da5cb5f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.UnityExpert/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.UnityExpert/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/3_Animation/#568/ImportAssets/Anima2D/Examples/TRex/t_rex_parts.png.meta" afterPath="$PROJECT_DIR$/Assets/3_Animation/#568/ImportAssets/Anima2D/Examples/TRex/t_rex_parts.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/3_Animation/#568/ImportAssets/Anima2D/Examples/UnityChan/atlas.png.meta" afterPath="$PROJECT_DIR$/Assets/3_Animation/#568/ImportAssets/Anima2D/Examples/UnityChan/atlas.png.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/3_Animation/#568/Sprite/20170309191246.png.meta" afterPath="$PROJECT_DIR$/Assets/3_Animation/#568/Sprite/20170309191246.png.meta" />
-    </list>
+    <list default="true" id="1038e09e-edf0-46ac-88ec-50719da5cb5f" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +57,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/4_Script/650/Mydelegate5.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="18" lean-forward="true" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+              <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
               <folding>
                 <marker date="1491226576000" expanded="true" signature="128:432" ph="{...}" />
                 <marker date="1491226576000" expanded="true" signature="177:360" ph="{...}" />
@@ -103,8 +98,8 @@
       <file leaf-file-name="event01.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/4_Script/650/event01.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="21" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state relative-caret-position="360">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding>
                 <marker date="1491228780000" expanded="true" signature="57:431" ph="{...}" />
                 <marker date="1491228780000" expanded="true" signature="210:265" ph="{...}" />
@@ -311,12 +306,12 @@
       <updated>1488528912293</updated>
       <workItem from="1488528914649" duration="11331000" />
       <workItem from="1488969217200" duration="6000" />
-      <workItem from="1491138794707" duration="9383000" />
+      <workItem from="1491138794707" duration="9616000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20720000" />
+    <option name="totallyTimeSpent" value="20953000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -643,7 +638,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/4_Script/650/Mydelegate5.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="18" lean-forward="true" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
           <folding>
             <marker date="1491226576000" expanded="true" signature="128:432" ph="{...}" />
             <marker date="1491226576000" expanded="true" signature="177:360" ph="{...}" />
@@ -667,8 +662,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/4_Script/650/event01.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="21" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="360">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding>
             <marker date="1491228780000" expanded="true" signature="57:431" ph="{...}" />
             <marker date="1491228780000" expanded="true" signature="210:265" ph="{...}" />
